@@ -82,10 +82,10 @@ EOF
 
 ## Cüzdanları içe aktaralım.
 ```
-icq keys restore --chain stride-testnet rues
+icq keys restore --chain stride-testnet xpekkix
 ```
 ```
-icq keys restore --chain gaia-testnet rues
+icq keys restore --chain gaia-testnet xpekkix
 ```
 
 ## ICQ hizmeti oluşturun
