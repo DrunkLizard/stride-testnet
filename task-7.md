@@ -66,8 +66,8 @@ echo "$(curl -s ifconfig.me)$(grep -A 3 "\[rpc\]" ~/.gaia/config/config.toml | e
 * Birinci GRPC ikinci RPC
 
 ```
-GRPC=""
-RPC=""
+GRPC="86.48.0.161:23090"
+RPC="86.48.0.161:23657"
 ```
 
 ## Mnemonicleri girelim:
