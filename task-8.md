@@ -107,7 +107,7 @@ sudo tee $HOME/.relayer/stride.json > /dev/null <<EOF
 {
   "type": "cosmos",
   "value": {
-    "key": "rues",
+    "key": "xpekkix",
     "chain-id": "STRIDE-TESTNET-4",
     "rpc-addr": "http://${STRIDE_RPC_ADDR}",
     "account-prefix": "stride",
