@@ -247,10 +247,10 @@ journalctl -u hermesd.service -fo cat
 * Cüzdan adreslerinizi değiştirin.
 
 ```
-hermes tx raw ft-transfer GAIA STRIDE-TESTNET-4 transfer channel-0 1000 -d ustrd -r strıdecüzdanı -t 60 -o 100
+hermes tx raw ft-transfer GAIA STRIDE-TESTNET-4 transfer channel-0 1000 -d ustrd -r stride1c6sqch6amx4qdwdfg3g4k68rcartcua3fzzn79 -t 60 -o 100
 ```
 ```
-hermes tx raw ft-transfer STRIDE-TESTNET-4 GAIA transfer channel-0 1000 -d uatom -r gaıacüzdanı -t 60 -o 100
+hermes tx raw ft-transfer STRIDE-TESTNET-4 GAIA transfer channel-0 1000 -d uatom -r cosmos1c6sqch6amx4qdwdfg3g4k68rcartcua32fz02f -t 60 -o 100
 ```
 
 ## Explorer'dan işlemleri kontrol edelim: [Explorer Linki](https://poolparty.stride.zone/GAIA/staking)
