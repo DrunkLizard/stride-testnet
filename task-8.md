@@ -132,7 +132,7 @@ sudo tee $HOME/.relayer/gaia.json > /dev/null <<EOF
 {
   "type": "cosmos",
   "value": {
-    "key": "rues",
+    "key": "xpekkix",
     "chain-id": "GAIA",
     "rpc-addr": "http://${GAIA_RPC_ADDR}",
     "account-prefix": "cosmos",
